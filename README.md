@@ -20,7 +20,7 @@
   * VSCode
   * StreamLit CLoud
   
-## **[CLICK HERE](https://share.streamlit.io/lschimidtc/nfl-receiver-dashboard/main/index.py) to visit the app!**
+## **[CLICK HERE](https://share.streamlit.io/lschimidtc/movie-recommendation-system/main/app.py) to visit the app!**
 
 ## Examples:
 ![alt text](https://github.com/lschimidtc/Movie-Recommendation-System/blob/main/src/ajb.png)
