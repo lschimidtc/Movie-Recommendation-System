@@ -23,5 +23,5 @@
 ## **[CLICK HERE](https://share.streamlit.io/lschimidtc/nfl-receiver-dashboard/main/index.py) to visit the app!**
 
 ## Examples:
-![alt text](https://github.com/lschimidtc/NFL-Receiver-Dashboard/blob/main/src/ajb.png)
-![alt text](https://github.com/lschimidtc/NFL-Receiver-Dashboard/blob/main/src/ajb2.png)
+![alt text](https://github.com/lschimidtc/Movie-Recommendation-System/blob/main/src/ajb.png)
+![alt text](https://github.com/lschimidtc/Movie-Recommendation-System/blob/main/src/ajb2.png)
