@@ -18,7 +18,7 @@
     * streamlit
   * Google Colab 
   * VSCode
-  * StreamLit CLoud
+  * StreamLit Cloud
   
 ## **[CLICK HERE](https://share.streamlit.io/lschimidtc/movie-recommendation-system/main/app.py) to visit the app!**
 
