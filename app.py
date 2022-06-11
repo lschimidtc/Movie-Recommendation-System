@@ -3,6 +3,10 @@ import streamlit as st
 import pandas as pd
 import requests
 
+st.set_page_config(page_title='Movie Recommendation System',
+                   page_icon='src/movie.png',
+                   layout="wide")
+
 def get_poster(movie_id):
   url = "https://api.themoviedb.org/3/movie/{}?api_key=5b23ce0eeb95b91e1fae905d65606841&language=en-US".format(movie_id)
   data = requests.get(url)
