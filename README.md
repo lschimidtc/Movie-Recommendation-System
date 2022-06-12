@@ -4,7 +4,7 @@
 * Large amount of data
   * Exploratory Data Analysis (Analysis, Visualization, Insights)
   * Recommendation System (Model)
-  * Data Source: APIs, DataBases, .CSV & .XLSX
+  * Data Source: APIs, DataBases, .csv's & .xlsx's
 
 * Technologies used:
   * Python
